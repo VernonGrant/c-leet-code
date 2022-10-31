@@ -1,4 +1,4 @@
-GCC=gcc -ggdb -Wall
+GCC=gcc -ggdb -Wall -lm
 
 .PHONY: clean
 
